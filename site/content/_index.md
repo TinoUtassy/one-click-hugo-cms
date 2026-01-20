@@ -4,16 +4,14 @@ subtitle: Ihr Partner für moderne Bäder und effiziente Heizungen
 image: img/unnamed-2.jpg
 blurb:
   heading: Unsere Leistungen
-  text: "Seit 1889 steht unser Name für handwerkliche Qualität in Gornau. Wir
+  text: "Seit 1889 steht unser Name für handwerkliche Qualität in Gornsdorf. Wir
     verbinden Tradition mit modernster Technik: Ob Heizung, Sanitär oder Solar –
     bei uns bekommen Sie ehrliche Beratung und zuverlässigen Service aus einer
     Hand."
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Unsere Fachbereiche
+  text: Als Meisterbetrieb bieten wir Ihnen ein breites Spektrum an Leistungen –
+    individuell geplant und fachgerecht ausgeführt.
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
