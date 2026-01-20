@@ -13,7 +13,7 @@ intro:
   text: Als Meisterbetrieb bieten wir Ihnen ein breites Spektrum an Leistungen –
     individuell geplant und fachgerecht ausgeführt.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/apple-touch-icon.png
     text: We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
       of coffee beans grown with great care for the environment and local
