@@ -3,11 +3,11 @@ title: Haustechnik Meischner
 subtitle: Ihr Partner für moderne Bäder und effiziente Heizungen
 image: img/unnamed-2.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Unsere Leistungen
+  text: "Seit 1889 steht unser Name für handwerkliche Qualität in Gornau. Wir
+    verbinden Tradition mit modernster Technik: Ob Heizung, Sanitär oder Solar –
+    bei uns bekommen Sie ehrliche Beratung und zuverlässigen Service aus einer
+    Hand."
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
