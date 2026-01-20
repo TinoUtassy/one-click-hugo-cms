@@ -15,8 +15,7 @@ intro:
 products:
   - image: img/apple-touch-icon.png
     text: >-
-      ### Heizung & Energie
-
+      HEIZUNG & ENERGIE
 
 
       Von der modernen Gasheizung über Wärmepumpen bis hin zu Solaranlagen. Wir sorgen effizient und nachhaltig für Wärme in Ihrem Zuhause.
