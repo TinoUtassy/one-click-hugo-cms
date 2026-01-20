@@ -14,8 +14,12 @@ intro:
     individuell geplant und fachgerecht ausgeführt.
 products:
   - image: img/apple-touch-icon.png
-    text: Von der modernen Gasheizung über Wärmepumpen bis hin zu Solaranlagen. Wir
-      sorgen effizient und nachhaltig für Wärme in Ihrem Zuhause.
+    text: >-
+      ###Heizung & Energie
+
+
+
+      Von der modernen Gasheizung über Wärmepumpen bis hin zu Solaranlagen. Wir sorgen effizient und nachhaltig für Wärme in Ihrem Zuhause.
   - image: /img/illustrations-coffee-gear.svg
     text: We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
