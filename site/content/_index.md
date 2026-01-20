@@ -15,7 +15,7 @@ intro:
 products:
   - image: img/apple-touch-icon.png
     text: >-
-      ###Heizung & Energie
+      ### Heizung & Energie
 
 
 
